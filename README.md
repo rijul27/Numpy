@@ -1,7 +1,4 @@
-# Numpy
-Numpy Basics to Advance
 
-------------
 
 # NumPy Broadcasting
 
